@@ -4,7 +4,7 @@ This repository represents the Scud Storm team's work for the WRO Future Enginee
 
 **Important Note:** If the GitHub repository is accessed from a restricted area, a VPN must be used for the repo to look good and display all content properly.
 The following **HTML** file simulates how Differential Gears work:
-- [Differential Gears Simulation](other\differential_simulation.html) 
+- [Differential Gears Simulation](other/differential_simulation.html) 
 # Content
 
 * `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members)
